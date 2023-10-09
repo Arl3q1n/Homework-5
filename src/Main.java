@@ -7,9 +7,13 @@ public class Main {
         NumbersScanner Ex_1 = new NumbersScanner();
         Ex_1.numberScanner();
 
+        System.out.println("\n---------------------------------------\n");
+
         // Exercise 2
         DivisibleNumbers Ex_2 = new DivisibleNumbers();
         Ex_2.divisibleNumbers();
+
+        System.out.println("\n---------------------------------------\n");
 
         // Exercise 3
         SeriesOfSums Ex_3 = new SeriesOfSums();
